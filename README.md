@@ -1,16 +1,10 @@
-# pomodoro
+# Pomodoro
 
-A new Flutter project.
+An App that shows the techniques called Pomodoro that some people use to include stops between study/work.
+MobX | Provider
 
-## Getting Started
+<img src="https://github.com/Gi4nfratti/pomodoro/assets/32543785/801e9478-c57a-4d95-9d5f-0ef5b59197b0" width="300" height="500">
+<img src="https://github.com/Gi4nfratti/pomodoro/assets/32543785/32219613-9240-48d3-95b4-98b659ec95c6" width="300" height="500">
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# DEMO
+<img src="https://github.com/Gi4nfratti/pomodoro/assets/32543785/bf08eeb9-c714-40d8-a81c-a502900772dc" width="300" height="500"/>
